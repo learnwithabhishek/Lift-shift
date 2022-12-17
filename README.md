@@ -25,4 +25,3 @@ AWS Services
 •	ROUTE 53: For private DNS Service
 •	IAM, ACM, EBS also used
 
-![image](https://user-images.githubusercontent.com/110404399/208224307-09114eaf-ee03-4799-b41d-7436f00f7216.png)
